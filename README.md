@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NadeeshaPiushan
+- 👀 I’m interested in CS and Sports 
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on projects in Python 
+- 📫 email me to nadeeshapiushan@gmail.com 
